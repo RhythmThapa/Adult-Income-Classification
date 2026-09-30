@@ -28,3 +28,6 @@ Random Forest was selected on validation F1. Final test metrics: accuracy 0.832,
 - `notebooks/` - main notebook
 - `results/` - confusion matrix and ROC curve plots
 - `models/` - saved model
+
+
+**Trained model:** [Download the .joblib](https://huggingface.co/RhythmThapa/rhythm-adult-income-random-forest/resolve/main/adult_income_model.joblib?download=true)
